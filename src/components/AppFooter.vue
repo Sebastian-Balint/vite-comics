@@ -154,7 +154,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use "../style/partials/-variables" as *;
+@use "../style/partials/variables" as *;
 .container {
   .jumbo {
     background-image: url(./../assets/img/footer-bg.jpg);

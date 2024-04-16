@@ -45,7 +45,7 @@ export default {
   </div>
 </template>
 <style scoped lang="scss">
-@use "../style/partials/-variables" as *;
+@use "../style/partials/variables" as *;
 .container {
   background-color: $brand-primary;
 
